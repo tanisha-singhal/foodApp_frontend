@@ -2,7 +2,7 @@
   "homepage": "https://github.com/Shreya-0999/Food_App#readme",
   "name": "foodapp",
   "version": "0.1.0",
-  "proxy": "https://lifesaver123.herokuapp.com/",
+  "proxy": "https://fooapp-backend.herokuapp.com/",
   "private": true,
   "dependencies": {
     "@emotion/react": "^11.4.1",
